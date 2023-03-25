@@ -1,6 +1,6 @@
 ### Olá, Sou o Ismael
 
-- 🌱 Estudando Python, CSS, Html, Node.js, ...
+- 🌱 Estudando Python, CSS, Html, C, ...
 
 <div align="center">
   <a href="https://github.com/IsmaelRK">
