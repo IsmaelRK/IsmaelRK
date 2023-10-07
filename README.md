@@ -10,12 +10,13 @@
  
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ismael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ismael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ismael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ismael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ismael-C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
-  <img align="center" alt="Ismael-C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="Ismael-JsIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ismael-HTMLIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ismael-CSSIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ismael-PythonIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ismael-CIcon" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
+  <img align="center" alt="Ismael-PHPIcon" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="Ismael-JavaIcon" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 </div>
   
   ##
