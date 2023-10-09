@@ -25,6 +25,9 @@
   <img>
   <img>
   <img align="center" alt="Ismael-DjangoIcon" height="60" width="60" src="https://icongr.am/devicon/django-original.svg?size=146&color=currentColor">
+  <img>
+  <img>
+  <img align="center" alt="Ismael-ReactIcon" height="40" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor">
 </div>
 
 <div style="display: inline_block"><br>
@@ -35,7 +38,13 @@
   <img>
   <img>
   <img align="center" alt="Ismael-MySqlIcon" height="60" width="60" src="https://devicon-website.vercel.app/api/mysql/plain-wordmark.svg">
-  
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ismael-UnityIcon" height="40" width="40" src="https://devicon-website.vercel.app/api/unity/original.svg">
+  <img>
+  <img>
+  <img align="center" alt="Ismael-UnrealIcon" height="60" width="60" src="https://devicon-website.vercel.app/api/unrealengine/original-wordmark.svg">
 </div>
 
   ##
