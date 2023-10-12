@@ -39,6 +39,16 @@
   <img>
   <img>
   <img align="center" alt="Ismael-MySqlIcon" height="60" width="60" src="https://devicon-website.vercel.app/api/mysql/plain-wordmark.svg">
+  <img>
+  <img>
+  <img align="center" alt="Ismael-MongoDBIcon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
+  <img>
+  <img>
+  <img align="center" alt="Ismael-RedisDBIcon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg">
+  <img>
+  <img>
+  <img align="center" alt="Ismael-OracleDBIcon" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Ismael-MariaDBIcon" height="80" width="80" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg">
 </div>
 
 <div style="display: inline_block"><br>
