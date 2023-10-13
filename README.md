@@ -50,9 +50,6 @@
   <img align="center" alt="Ismael-RedisDBIcon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg">
   <img>
   <img>
-  <img align="center" alt="Ismael-OracleDBIcon" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img>
-  <img>
   <img align="center" alt="Ismael-CassandraDBIcon" height="90" width="90" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-ar21.svg">
   <img align="center" alt="Ismael-MariaDBIcon" height="80" width="80" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg">
 </div>
