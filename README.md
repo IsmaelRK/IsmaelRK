@@ -28,9 +28,9 @@
   <img align="center" alt="Ismael-DjangoIcon" height="60" width="60" src="https://icongr.am/devicon/django-original.svg?size=146&color=currentColor">
   <img>
   <img>
-  <img align="center" alt="Ismael-ReactIcon" height="40" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor">
+<!--   <img align="center" alt="Ismael-ReactIcon" height="40" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor">
   <img>
-  <img>
+  <img> -->
   <img align="center" alt="Ismael-DockerIcon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
 </div>
 
