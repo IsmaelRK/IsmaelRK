@@ -10,57 +10,82 @@
 </div>
  
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ismael-PythonIcon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ismael-JsIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ismael-HTMLIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ismael-CSSIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ismael-CIcon" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
-  <img align="center" alt="Ismael-PHPIcon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Ismael-JavaIcon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Ismael-GoIcon" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
+#### No Front
+
+<div style="display: inline_block">
+
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Ismael-PythonIcon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Ismael-JsIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Ismael-HTMLIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Ismael-CSSIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Ismael-CIcon" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
+  
+  </div>
+  
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Ismael-FlaskIcon" height="40" width="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
+    <img>
+    <img>
+    <img align="center" alt="Ismael-DjangoIcon" height="60" width="60" src="https://icongr.am/devicon/django-original.svg?size=146&color=currentColor">
+    <img>
+    <img>
+    <img align="center" alt="Ismael-DockerIcon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  </div>
+  
+  
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Ismael-PostgresIcon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+    <img>
+    <img>
+    <img align="center" alt="Ismael-SqliteIcon" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
+    <img>
+    <img>
+    <img align="center" alt="Ismael-MySqlIcon" height="60" width="60" src="https://devicon-website.vercel.app/api/mysql/plain-wordmark.svg">
+  </div>
   
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ismael-FlaskIcon" height="40" width="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
-  <img>
-  <img>
-  <img align="center" alt="Ismael-DjangoIcon" height="60" width="60" src="https://icongr.am/devicon/django-original.svg?size=146&color=currentColor">
-  <img>
-  <img>
-<!--   <img align="center" alt="Ismael-ReactIcon" height="40" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor">
-  <img>
-  <img> -->
-  <img align="center" alt="Ismael-DockerIcon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+
+
+
+
+#### Aprimorando
+
+
+<div style="display: inline_block">
+
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Ismael-PHPIcon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+    <img align="center" alt="Ismael-JavaIcon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+    <img align="center" alt="Ismael-GoIcon" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
+    
+  </div>
+  
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Ismael-MongoDBIcon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
+    <img>
+    <img>
+    <img align="center" alt="Ismael-RedisDBIcon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg">
+    <img>
+    <img>
+    <img align="center" alt="Ismael-CassandraDBIcon" height="90" width="90" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-ar21.svg">
+    <img align="center" alt="Ismael-MariaDBIcon" height="80" width="80" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg">
+  </div>
+  
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Ismael-UnityIcon" height="40" width="40" src="https://devicon-website.vercel.app/api/unity/original.svg">
+    <img>
+    <img>
+    <img align="center" alt="Ismael-UnrealIcon" height="60" width="60" src="https://devicon-website.vercel.app/api/unrealengine/original-wordmark.svg">
+  </div>
+
+
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ismael-PostgresIcon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img>
-  <img>
-  <img align="center" alt="Ismael-SqliteIcon" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
-  <img>
-  <img>
-  <img align="center" alt="Ismael-MySqlIcon" height="60" width="60" src="https://devicon-website.vercel.app/api/mysql/plain-wordmark.svg">
-  <img>
-  <img>
-  <img align="center" alt="Ismael-MongoDBIcon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
-  <img>
-  <img>
-  <img align="center" alt="Ismael-RedisDBIcon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg">
-  <img>
-  <img>
-  <img align="center" alt="Ismael-CassandraDBIcon" height="90" width="90" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-ar21.svg">
-  <img align="center" alt="Ismael-MariaDBIcon" height="80" width="80" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg">
-</div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ismael-UnityIcon" height="40" width="40" src="https://devicon-website.vercel.app/api/unity/original.svg">
-  <img>
-  <img>
-  <img align="center" alt="Ismael-UnrealIcon" height="60" width="60" src="https://devicon-website.vercel.app/api/unrealengine/original-wordmark.svg">
-</div>
+
+
 
   ##
   
